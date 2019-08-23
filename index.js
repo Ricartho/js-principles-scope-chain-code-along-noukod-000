@@ -24,5 +24,6 @@ function overWriteBestCustomer(newFavorite){
 // }
 
 function attemptTwoFavoriteCustomers(){
-   
+    let favoriteCustomer = 'not bar';
+    var favoriteCustomer = 'bar';
 }
