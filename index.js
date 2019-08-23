@@ -1,5 +1,5 @@
 var customerName = 'bob';
-let favoriteCustomer = 'bar';
+
 const leastFavoriteCustomer = 'sour fred';
 
 function upperCaseCustomerName() {
