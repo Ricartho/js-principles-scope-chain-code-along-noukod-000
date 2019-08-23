@@ -1,5 +1,5 @@
 var customerName = 'bob';
-
+let favoriteCustomer = 'bar';
 const leastFavoriteCustomer = 'sour fred';
 
 function upperCaseCustomerName() {
@@ -24,6 +24,6 @@ function overWriteBestCustomer(newFavorite){
 // }
 
 function attemptTwoFavoriteCustomers(){
-     let favoriteCustomer = 'bar';
+     
      let favoriteCustomer = 'not bar';
 }
