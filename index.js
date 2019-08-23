@@ -11,13 +11,13 @@ function upperCaseCustomerName() {
 // }
 
 
-// function setBestCustomer(){
-//   bestCustomer = 'not bob';
-// }
+function setBestCustomer(){
+  bestCustomer = 'not bob';
+}
 
-// function overWriteBestCustomer(newFavorite){
-//   bestCustomer = newFavorite;
-// }
+function overWriteBestCustomer(newFavorite){
+  bestCustomer = newFavorite;
+}
 
 // function congratulateCustomer(){
 //   return `congrats ${favoriteCustomer}`;
